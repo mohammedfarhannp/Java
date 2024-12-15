@@ -39,7 +39,7 @@ class Calculator {
 }
 
 // Main class
-class Main
+class Third_Program
 {
     // main function of Main class
     public static void main(String[] args)
