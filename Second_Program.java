@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 // Main class
-class Main {
+class Second_Program {
     // Main Function
     public static void main(String[] args)
     {
