@@ -1,6 +1,6 @@
 // Testing Java coding with prior knowledge in C/C++
 // Main Class *Required for exec
-public class Main
+public class First_Program
 {
     // Main Function of Main class *Required for exec
     public static void main(String[] args)
