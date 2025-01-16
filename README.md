@@ -12,7 +12,7 @@ If the file name is *farhan.java* then the main class is *farhan*
 In the main class, the main method is defined as
 `public static void main(String[] args)`
 
-The type for main method is always *void*. _args_ is string array holding all command-line arguments (possibly, haven't tested it out yet).
+The type for main method is always *void*. _args_ is string array holding all command-line arguments.
 
 Two type of methods exist in Java
 1. public
