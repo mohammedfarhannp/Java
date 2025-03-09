@@ -38,7 +38,8 @@ class farhan {
   // main method of main class
   public static void main(String args[])
   {
-    System.out.println("Hello World!"); // 'println' mean print line - prints an additional '\n' at the end | there is also the method 'print' - prints whatever is given without additional '\n' like in 'println'
+    System.out.println("Hello World!");
+    // 'println' mean print line - prints an additional '\n' at the end | there is also the method 'print' - prints whatever is given without additional '\n' like in 'println'
   }
 }
 ```
