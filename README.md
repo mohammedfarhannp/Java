@@ -8,6 +8,12 @@ Create a file with .java extension
 Open the file, the main class name is the same name as file.
 
 If the file name is *farhan.java* then the main class is *farhan*
+```
+// main class
+class farhan {
+  // code
+}
+```
 
 In the main class, the main method is defined as
 `public static void main(String[] args)`
@@ -24,6 +30,19 @@ private methods cannot be accessed through class instances
 private methods are useful when developers would like to execute a certain code within the class and don't want it to be accessed outside the class through class instances manually.
 
 Rest of the syntax is a similar to that of C language.
+
+Print Hello World Program
+```
+// main class
+class farhan {
+  // main method of main class
+  public static void main(String args[])
+  {
+    System.out.println("Hello World!"); // 'println' mean print line - prints an additional '\n' at the end | there is also the method 'print' - prints whatever is given without additional '\n' like in 'println'
+  }
+}
+```
+
 
 To create a class object, say you created a class calculator with four public methods (sum, dif, product, div)
 you first create a variable of the class type and then create a class instance with *new* keyword.
