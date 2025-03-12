@@ -73,12 +73,9 @@ class Second_Program {
     {
         // floating point number
         float result = 0.0f;
-        try
-        {
-            // Attempting to do the belo operation
+        if(y != 0) {
             result = x / (float) y;
-        } catch(ArithmeticException error)
-        {
+        } else {
             System.out.println("Zero Division Error..\n");
         }
         return result;
